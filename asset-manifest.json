@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/inshortsapp/static/css/main.a4a20492.chunk.css",
+    "main.js": "/inshortsapp/static/js/main.fb0101f2.chunk.js",
+    "main.js.map": "/inshortsapp/static/js/main.fb0101f2.chunk.js.map",
+    "runtime-main.js": "/inshortsapp/static/js/runtime-main.7db11e36.js",
+    "runtime-main.js.map": "/inshortsapp/static/js/runtime-main.7db11e36.js.map",
+    "static/js/2.b7c8893a.chunk.js": "/inshortsapp/static/js/2.b7c8893a.chunk.js",
+    "static/js/2.b7c8893a.chunk.js.map": "/inshortsapp/static/js/2.b7c8893a.chunk.js.map",
+    "static/js/3.e9c9279d.chunk.js": "/inshortsapp/static/js/3.e9c9279d.chunk.js",
+    "static/js/3.e9c9279d.chunk.js.map": "/inshortsapp/static/js/3.e9c9279d.chunk.js.map",
+    "index.html": "/inshortsapp/index.html",
+    "static/css/main.a4a20492.chunk.css.map": "/inshortsapp/static/css/main.a4a20492.chunk.css.map",
+    "static/js/2.b7c8893a.chunk.js.LICENSE.txt": "/inshortsapp/static/js/2.b7c8893a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7db11e36.js",
+    "static/js/2.b7c8893a.chunk.js",
+    "static/css/main.a4a20492.chunk.css",
+    "static/js/main.fb0101f2.chunk.js"
+  ]
+}
